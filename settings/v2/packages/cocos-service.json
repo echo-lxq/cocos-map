@@ -1,0 +1,50 @@
+{
+  "__version__": "3.0.6",
+  "game": {
+    "app_id": "619534546",
+    "name": "xls-zhanjiang-map-new",
+    "c_id": "0"
+  },
+  "appConfigMaps": [
+    {
+      "app_id": "UNKNOW",
+      "config_id": "b8a2f1"
+    },
+    {
+      "app_id": "619534546",
+      "config_id": "ca2624"
+    }
+  ],
+  "configs": [
+    {
+      "app_id": "UNKNOW",
+      "config_id": "b8a2f1",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": []
+    },
+    {
+      "app_id": "619534546",
+      "config_id": "9629b0",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": []
+    },
+    {
+      "app_id": "619534546",
+      "config_id": "ca2624",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": [
+        {
+          "service_id": "235",
+          "enable": true,
+          "param": {
+            "app_id": "619534546",
+            "store_id": "H5"
+          }
+        }
+      ]
+    }
+  ]
+}

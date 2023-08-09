@@ -1,0 +1,27 @@
+{
+  "__version__": "1.0.4",
+  "general": {
+    "designResolution": {
+      "width": 1080,
+      "height": 1920,
+      "fitHeight": true,
+      "fitWidth": false
+    },
+    "highQuality": true
+  },
+  "layer": [
+    {
+      "name": "UI_CA",
+      "value": 1
+    },
+    {
+      "name": "UI_MAP",
+      "value": 2
+    },
+    {
+      "name": "UI_NOTICE",
+      "value": 4
+    }
+  ],
+  "custom_joint_texture_layouts": []
+}
